@@ -20,7 +20,6 @@
 [![tags](https://badgen.net/github/tags/dtapps/go-dingtalk)](https://github.com/dtapps/go-dingtalk/tags)
 [![license](https://badgen.net/github/license/dtapps/go-dingtalk)](https://github.com/dtapps/go-dingtalk/blob/master/LICENSE)
 [![GitHub go.mod Go version (subdirectory of monorepo)](https://img.shields.io/github/go-mod/go-version/dtapps/go-dingtalk)](https://github.com/dtapps/go-dingtalk)
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/dtapps/go-dingtalk)](https://github.com/dtapps/go-dingtalk/releases)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/dtapps/go-dingtalk)](https://github.com/dtapps/go-dingtalk/tags)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dtapps/go-dingtalk)](https://github.com/dtapps/go-dingtalk)
 [![GitHub language count](https://img.shields.io/github/languages/count/dtapps/go-dingtalk)](https://github.com/dtapps/go-dingtalk)
