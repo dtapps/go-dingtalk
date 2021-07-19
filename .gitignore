@@ -4,3 +4,4 @@
 .idea
 .vscode
 gittag.sh
+*_test.go
