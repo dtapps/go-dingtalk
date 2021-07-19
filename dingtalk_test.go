@@ -1,8 +1,8 @@
 package dingtalk
 
 import (
-	"go-dingtalk/dingtalk"
-	"go-dingtalk/dingtalk/message"
+	"github.com/dtapps/go-dingtalk/dingtalk"
+	"github.com/dtapps/go-dingtalk/dingtalk/message"
 	"log"
 	"testing"
 )

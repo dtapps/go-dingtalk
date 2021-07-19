@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"go-dingtalk/dingtalk/message"
+	"github.com/dtapps/go-dingtalk/dingtalk/message"
 	"io/ioutil"
 	"log"
 	"net/http"
