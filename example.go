@@ -4,10 +4,9 @@ import (
 	"github.com/dtapps/go-dingtalk/dingtalk"
 	"github.com/dtapps/go-dingtalk/dingtalk/message"
 	"log"
-	"testing"
 )
 
-func main(t *testing.T) {
+func main() {
 	bot := dingtalk.DingBot{
 		Secret:      "",
 		AccessToken: "",
