@@ -8,7 +8,6 @@ import (
 	"fmt"
 	"github.com/dtapps/go-dingtalk/dingtalk/message"
 	"io/ioutil"
-	"log"
 	"net/http"
 	"strings"
 	"time"
@@ -35,8 +34,6 @@ func (bot *DingBot) Send(msg message.Message) (response, error) {
 	if e != nil {
 		return response, e
 	}
-	log.Printf("dingUrl：%v\n", dingUrl)
-	log.Printf("msg：%v\n", msg)
 	resp, e := http.Post(dingUrl, "application/json", strings.NewReader(string(j)))
 	if e != nil {
 		return response, e
