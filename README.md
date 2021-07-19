@@ -1,5 +1,3 @@
-<img width="100" src="https://www.dtapp.net/assets/img/logo.png" alt="https://www.dtapp.net/"/>
-
 <h1><a href="https://www.dtapp.net/">Golang DingTalk</a></h1>
 
 📦 Golang DingTalk 钉钉
